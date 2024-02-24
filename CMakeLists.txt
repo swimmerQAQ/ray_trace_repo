@@ -14,4 +14,5 @@ add_executable(owrt ${DIR_SRC}
                 include/vec3.h
                 include/color.h
                 include/ray.h
+                include/ray_color.h
 )
