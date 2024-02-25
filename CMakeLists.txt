@@ -15,4 +15,9 @@ add_executable(owrt ${DIR_SRC}
                 include/color.h
                 include/ray.h
                 include/ray_color.h
+                include/hittable.h
+                include/sphere.h
+                include/hittable_list.h
+                include/interval.h
+                include/camera.h
 )
